@@ -13,4 +13,3 @@ spec:
         backend:
           serviceName: kibana-kibana
           servicePort: 80
-
